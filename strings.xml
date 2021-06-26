@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Interview Ready Study</string>
+    <string name="hyperlink1">Learn more about DSA\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink2">Learn more about DSA\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink3">Learn more about DSA\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink4">Learn more about DSA\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink5">Learn more about DSA\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+
+    <string name="hyperlink6">Learn more about Logical reasoning\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink7">Learn more about Logical reasoning\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink8">Learn more about Logical reasoning\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink9">Learn more about Logical reasoning\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink10">Learn more about Logical reasoning\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+
+    <string name="hyperlink11">Learn more about Quantitative aptitude\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink12">Learn more about Quantitative aptitude\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink13">Learn more about Quantitative aptitude\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink14">Learn more about Quantitative aptitude\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+    <string name="hyperlink15">Learn more about Quantitative aptitude\n<a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">TutorialsPoint.com</a></string>
+</resources>
